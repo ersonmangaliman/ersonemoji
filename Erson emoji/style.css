@@ -1,0 +1,7 @@
+/* CSS for responsive design */
+@media (max-width: 600px) {
+    img {
+      width: 100%;
+    }
+  }
+  
